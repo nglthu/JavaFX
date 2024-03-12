@@ -1,7 +1,12 @@
 {
     "configurations": [
-
-       
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/demo.src.main.java.com.example.App",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "App",
